@@ -1,2 +1,2 @@
 # Co-op_coding
-A laburar
+Proyecto de varios mods de Garry's MOD por mero aprendizaje y diversión
